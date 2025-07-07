@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/huyouare-manus-mcp-badge.png)](https://mseep.ai/app/huyouare-manus-mcp)
+
 # Manus MCP
 
 <p align="center">
